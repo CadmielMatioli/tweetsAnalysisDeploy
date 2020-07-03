@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0e10030.chunk.css",
-    "main.js": "/static/js/main.9619ea24.chunk.js",
-    "main.js.map": "/static/js/main.9619ea24.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3ef713f4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3ef713f4.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f3d83cfe.chunk.js": "/static/js/2.f3d83cfe.chunk.js",
-    "static/js/2.f3d83cfe.chunk.js.map": "/static/js/2.f3d83cfe.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.feed3aabc4d2266782ad67dda3d95bd5.js": "/precache-manifest.feed3aabc4d2266782ad67dda3d95bd5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.c0e10030.chunk.css.map": "/static/css/main.c0e10030.chunk.css.map",
-    "static/js/2.f3d83cfe.chunk.js.LICENSE.txt": "/static/js/2.f3d83cfe.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/sentiment.538682a5.jpg"
+    "main.css": "/tweetsAnalysisDeploy/static/css/main.951349ef.chunk.css",
+    "main.js": "/tweetsAnalysisDeploy/static/js/main.654307c7.chunk.js",
+    "main.js.map": "/tweetsAnalysisDeploy/static/js/main.654307c7.chunk.js.map",
+    "runtime-main.js": "/tweetsAnalysisDeploy/static/js/runtime-main.b317b433.js",
+    "runtime-main.js.map": "/tweetsAnalysisDeploy/static/js/runtime-main.b317b433.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/tweetsAnalysisDeploy/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f3d83cfe.chunk.js": "/tweetsAnalysisDeploy/static/js/2.f3d83cfe.chunk.js",
+    "static/js/2.f3d83cfe.chunk.js.map": "/tweetsAnalysisDeploy/static/js/2.f3d83cfe.chunk.js.map",
+    "index.html": "/tweetsAnalysisDeploy/index.html",
+    "precache-manifest.e31cf788b253f681b1553bd75617e77e.js": "/tweetsAnalysisDeploy/precache-manifest.e31cf788b253f681b1553bd75617e77e.js",
+    "service-worker.js": "/tweetsAnalysisDeploy/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/tweetsAnalysisDeploy/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.951349ef.chunk.css.map": "/tweetsAnalysisDeploy/static/css/main.951349ef.chunk.css.map",
+    "static/js/2.f3d83cfe.chunk.js.LICENSE.txt": "/tweetsAnalysisDeploy/static/js/2.f3d83cfe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tweetsAnalysisDeploy/static/media/sentiment.538682a5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ef713f4.js",
+    "static/js/runtime-main.b317b433.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.f3d83cfe.chunk.js",
-    "static/css/main.c0e10030.chunk.css",
-    "static/js/main.9619ea24.chunk.js"
+    "static/css/main.951349ef.chunk.css",
+    "static/js/main.654307c7.chunk.js"
   ]
 }
